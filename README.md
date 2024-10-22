@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @CyMasterDev
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header">
+
+<h1 align="center">👋 Hi, I’m @CyMasterDev</h1>
+
 - I'm in my early teenage years and already have at least 4 years of Art, UI, UX, Web Design and 3D experience.
 - (i'll do the rest of this later)
 
