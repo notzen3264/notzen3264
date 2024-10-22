@@ -2,7 +2,7 @@
 
 <h1 align="center">👋 Hi, I’m @CyMasterDev</h1>
 
-- I'm in my early teenage years and already have at least 4 years of Art, UI, UX, Web Design and 3D experience.
+<h3>- I'm in my early teenage years and already have at least 4 years of Art, UI, UX, Web Design and 3D experience.</h3>
 - (i'll do the rest of this later)
 
 ![](https://komarev.com/ghpvc/?username=CyMasterDev)
