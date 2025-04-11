@@ -24,7 +24,7 @@
 </div>
 
 # Achievements
-![](https://github-profile-trophy.vercel.app/?username=notzen3264a&theme=nord&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=notzen3264&theme=nord&no-frame=true&no-bg=false&margin-w=4)
 
 ###
 
