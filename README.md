@@ -20,7 +20,7 @@
 
 <h1>Other Software</h1>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,vscode,github,figma,discord,sentry,debian,linux,md&perline=14" />
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,vscode,github,figma,discord,sentry,debian,linux,md,blender,gimp&perline=14" />
 </div>
 
 # Achievements
