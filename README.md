@@ -40,7 +40,7 @@
 - [Light](https://github.com/LightUnblocker/Light)
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=xnoctra5&color=c692f7&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=notzen3264&color=c692f7&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </div>
 
 ###
