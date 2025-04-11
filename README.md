@@ -20,11 +20,11 @@
 
 <h1>Other Software</h1>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,vscode,github,figma,discord,sentry,debian,linux,md,blender,gimp&perline=14" />
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,vscode,github,figma,discord,debian,linux,md,blender,gimp&perline=14" />
 </div>
 
 # Achievements
-![](https://github-profile-trophy.vercel.app/?username=xnoctra&theme=nord&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=notzen3264a&theme=github_dark_dimmed&no-frame=true&no-bg=false&margin-w=4)
 
 ###
 
