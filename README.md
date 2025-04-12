@@ -6,7 +6,7 @@
 ###
 
 # Projects I've worked on
-- <a href="https://github.com/notzen3264/Snapgram">Snapgram</a>
+- <h2><a href="https://github.com/notzen3264/Snapgram">Snapgram</a></h2>
 - [Snapgram](https://github.com/notzen3264/Snapgram)
 - [Zen](https://github.com/notzen3264/Zen)
 - [NanoLab](https://github.com/notzen3264/NanoLab)
