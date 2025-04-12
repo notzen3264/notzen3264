@@ -5,6 +5,14 @@
 
 ###
 
+# Projects I've worked on
+- <a></a>
+- [Snapgram](https://github.com/notzen3264/Snapgram)
+- [Zen](https://github.com/notzen3264/Zen)
+- [NanoLab](https://github.com/notzen3264/NanoLab)
+
+###
+
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=notzen3264&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&card_width=425)
@@ -34,11 +42,6 @@
   <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
   <img alt="github-snake" src="dist/github-snake.svg" />
 </picture>
-
-# Projects I've worked on
-- [Snapgram](https://github.com/notzen3264/Snapgram)
-- [Zen](https://github.com/notzen3264/Zen)
-- [NanoLab](https://github.com/notzen3264/NanoLab)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=notzen3264" alt="Profile Views"/>
