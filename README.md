@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header">
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;width=600&amp;section=header">
 
 <h1 align="center">👋 Hi, I’m @notzen3264</h1>
 
@@ -35,8 +35,8 @@
 </picture>
 
 # Projects I've worked on
-- [Ambient](https://github.com/xnoctra/Ambient)
-- [Space](https://github.com/NightProxy/Space)
+- [Snapgram](https://github.com/notzen3264/Snapgram)
+- [Zen](https://github.com/notzen3264/Zen)
 - [Light](https://github.com/LightUnblocker/Light)
 
 <div align="center">
