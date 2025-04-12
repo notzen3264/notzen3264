@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;width=1000&amp;section=header">
 
 <h1 align="center">👋 Hi, I’m @notzen3264</h1>
-<h6>Fullstack developer, Engineer, Science Enthusiast, Designer, Artist</h6>
+<h6 align="center">Fullstack developer, Engineer, Science Enthusiast, Designer, Artist</h6>
 
 ###
 
