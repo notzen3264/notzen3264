@@ -13,6 +13,13 @@
 ###
 
 <div align="center">
+<p>Leave something cool in my guest book:</p>
+<a href="https://github.com/notzen3264/notzen3264/issues"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
+</div>
+
+###
+
+<div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=notzen3264&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&card_width=350)
 ![](https://nirzak-streak-stats.vercel.app/?user=notzen3264&theme=github_dark_dimmed&hide_border=true&card_width=350)
