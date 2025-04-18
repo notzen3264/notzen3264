@@ -13,8 +13,9 @@
 ###
 
 <div>
-<h2>Please sign my guest book! 🙂</h2>
+<h2>Please sign my guestbook! 🙂</h2>
 <a href="https://github.com/notzen3264/notzen3264/issues"><img src="https://github.com/notzen3264/notzen3264/raw/main/IMG_9461.gif" alt="Guest book" align="center"></a>
+<h2><a href="https://github.com/notzen3264/notzen3264/issues">Or click this link to the 'guestbook'</a></h2>
 </div>
 
 ###
