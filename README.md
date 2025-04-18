@@ -13,7 +13,7 @@
 ###
 
 <div>
-<p>Leave something cool in my guest book:</p>
+<h2>Leave something cool in my guest book:</h2>
 <a href="https://github.com/notzen3264/notzen3264/issues"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
 </div>
 
