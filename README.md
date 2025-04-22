@@ -8,7 +8,7 @@
 # Projects I've worked on
 - <h2><a href="https://github.com/notzen3264/Snapgram">Snapgram</a></h2>
 - <h2><a href="https://github.com/notzen3264/Zen">Zen Browser</a></h2>
-- <h2><a href="https://github.com/notzen3264/NanoLab">NanoLab</a></h2>
+- <h2><a href="https://github.com/notzen3264/MicroLab">MicroLab</a></h2>
 
 ###
 
